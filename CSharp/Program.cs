@@ -1,13 +1,17 @@
 ﻿using System;
 using Primeiro;
 using CSharp;
-
+using Interface;
+using Enum;
 namespace CSharp
 {
     class Program
     {
         static void Main(string[] args)
         {
+            //var pessoa = Pessoas.Antônio;
+            var pessoa = (Pessoas)0;
+
             Pessoa person = new Pessoa();
 
             person.Nome = "Antônio";
@@ -21,7 +25,14 @@ namespace CSharp
 
             var classe = new Primeiro.Classe();
             Console.WriteLine("Hello World!");
-            Console.WriteLine
+
+            Animal animal = new Animal();
+
+            animal.Nome = "Rex";
+            animal.nomeDono = "Pedro";            
+            animal.especie = "Cachorro";
+
+
         }
     }
 }
