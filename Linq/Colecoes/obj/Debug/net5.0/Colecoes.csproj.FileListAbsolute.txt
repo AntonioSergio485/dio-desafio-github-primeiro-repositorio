@@ -1,0 +1,16 @@
+C:\Users\Julio\Desktop\Linq\Colecoes\bin\Debug\net5.0\Colecoes.exe
+C:\Users\Julio\Desktop\Linq\Colecoes\bin\Debug\net5.0\Colecoes.deps.json
+C:\Users\Julio\Desktop\Linq\Colecoes\bin\Debug\net5.0\Colecoes.runtimeconfig.json
+C:\Users\Julio\Desktop\Linq\Colecoes\bin\Debug\net5.0\Colecoes.runtimeconfig.dev.json
+C:\Users\Julio\Desktop\Linq\Colecoes\bin\Debug\net5.0\Colecoes.dll
+C:\Users\Julio\Desktop\Linq\Colecoes\bin\Debug\net5.0\ref\Colecoes.dll
+C:\Users\Julio\Desktop\Linq\Colecoes\bin\Debug\net5.0\Colecoes.pdb
+C:\Users\Julio\Desktop\Linq\Colecoes\obj\Debug\net5.0\Colecoes.csproj.AssemblyReference.cache
+C:\Users\Julio\Desktop\Linq\Colecoes\obj\Debug\net5.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio\Desktop\Linq\Colecoes\obj\Debug\net5.0\Colecoes.AssemblyInfoInputs.cache
+C:\Users\Julio\Desktop\Linq\Colecoes\obj\Debug\net5.0\Colecoes.AssemblyInfo.cs
+C:\Users\Julio\Desktop\Linq\Colecoes\obj\Debug\net5.0\Colecoes.csproj.CoreCompileInputs.cache
+C:\Users\Julio\Desktop\Linq\Colecoes\obj\Debug\net5.0\Colecoes.dll
+C:\Users\Julio\Desktop\Linq\Colecoes\obj\Debug\net5.0\ref\Colecoes.dll
+C:\Users\Julio\Desktop\Linq\Colecoes\obj\Debug\net5.0\Colecoes.pdb
+C:\Users\Julio\Desktop\Linq\Colecoes\obj\Debug\net5.0\Colecoes.genruntimeconfig.cache
