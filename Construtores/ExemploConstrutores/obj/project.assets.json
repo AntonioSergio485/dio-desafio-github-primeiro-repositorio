@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Julio\\Desktop\\workspace\\ExemploConstrutores\\ExemploConstrutores.csproj",
+      "projectUniqueName": "C:\\Users\\Julio\\Desktop\\Construtores\\ExemploConstrutores\\ExemploConstrutores.csproj",
       "projectName": "ExemploConstrutores",
-      "projectPath": "C:\\Users\\Julio\\Desktop\\workspace\\ExemploConstrutores\\ExemploConstrutores.csproj",
+      "projectPath": "C:\\Users\\Julio\\Desktop\\Construtores\\ExemploConstrutores\\ExemploConstrutores.csproj",
       "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Julio\\Desktop\\workspace\\ExemploConstrutores\\obj\\",
+      "outputPath": "C:\\Users\\Julio\\Desktop\\Construtores\\ExemploConstrutores\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

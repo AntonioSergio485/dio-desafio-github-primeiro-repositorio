@@ -5,14 +5,31 @@ namespace ExemploConstrutores
 {
     class Program
     {
+         public delegate void Operacao(int x , int y);
         static void Main(string[] args)
         {
+           
+           Operacao op = new Operacao(Calculadora.Somar);
 
-            Log log = Log.GetInstance();
-            log.PropriedadeLog = "Teste Log";
+           op += Calculadora.Subtrair;
+           
+           op.Invoke(10,10);
+           //op(10,10)
 
-            Log log2 = Log.GetInstance();
-            System.Console.WriteLine(log2.PropriedadeLog);
+
+            // const double pi = 3.14;
+            // System.Console.WriteLine(pi);
+
+            // Data data = new Data();
+            // data.SetMes(2);
+            // data.ApresentarMes();
+            // Aluno a1 = new Aluno("Antonio","Sergio","teste");
+
+            // Log log = Log.GetInstance();
+            // log.PropriedadeLog = "Teste Log";
+
+            // Log log2 = Log.GetInstance();
+            // System.Console.WriteLine(log2.PropriedadeLog);
 
             // Pessoa p1 = new Pessoa();
             // p1.apresentar();
