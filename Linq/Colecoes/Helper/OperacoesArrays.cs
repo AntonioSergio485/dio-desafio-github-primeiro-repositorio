@@ -36,16 +36,25 @@ namespace Colecoes.Helper
             return Array.Exists(array,elemento => elemento == valor);
         }
 
-        public bool todosMaiorQue(int[] array, int valor){
+        public bool TodosMaiorQue(int[] array, int valor){
             return Array.TrueForAll(array,elemento => elemento > valor);
         }
 
-        public int obterValor(int[] array , int valor){
+        public int ObterValor(int[] array , int valor){
             return Array.Find(array, element => element == valor);
         }
 
-        public int obterIndice(int[] array , int valor){
+        public int ObterIndice(int[] array , int valor){
             return Array.IndexOf(array,valor);
         }
+
+        public void RedimensionarArray(ref int[] array, int tamanho ){
+            Array.Resize(ref array,tamanho);
+        }
+
+        public string[] ConverterParaString(int[] array){
+            return Array.ConvertAll(array, elemento => elemento.ToString());    
+        }
+
     }
 }
